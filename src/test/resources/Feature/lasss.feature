@@ -8,6 +8,6 @@ Feature: verifying facebook login module
 
     Examples: 
       | userName  | password      |
-      | greensOmr | maniva@e89343 |
+      | gokul6757@gmail.com | Gokul@123 |
       | greensjdk | mani@u749494  |
       | mani      | mani@w8494984 |
